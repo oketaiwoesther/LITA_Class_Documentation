@@ -60,6 +60,12 @@ WHERE CONDITION = TRUE
 
 ![WhatsApp Image 2024-09-26 at 8 40 24 PM (1)](https://github.com/user-attachments/assets/1e080a67-0ec9-4c49-99ef-bd86e9a50fb8)
 
+🥇
+
+💻
+
+🥚
+
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
