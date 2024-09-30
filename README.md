@@ -16,5 +16,21 @@ online such as kaggle or FRED or any other data repository site.
     1. For Data Cleaning
     2. For Analysis
     3. For Visualization
+
 -  SQL - Structured Query Language for Querying of Data
--  GitHub for Portfolio Buiding
+-  GitHub for Portfolio Building
+
+### Data Cleaning and Preparation
+In thr inital phase of the Data cleaning and preparations, we perform the following action;
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data Cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involved the exploring of the Data to answer some questions about the Data such as;
+- What is overall Sales trend
+- Which product are top sellers
+- what are the Products on peak sales?
+
+
+  
