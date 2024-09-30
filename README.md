@@ -2,6 +2,16 @@
 
 ### Project Title: E commerce sales Analysis
 
+[Project Overview](#project-overview)
+
+Data sources
+
+Tools Used
+
+Data Cleaning and Preparation
+
+
+
 ### Project Overview
 ---
 This Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past year. By 
