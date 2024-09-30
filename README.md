@@ -47,3 +47,10 @@ WHERE CONDITION = TRUE
 ![WhatsApp Image 2024-09-14 at 10 34 59 PM (3)](https://github.com/user-attachments/assets/a00662b4-4df4-4d14-a496-497e92f15d7c)
 
 ![WhatsApp Image 2024-09-26 at 8 40 24 PM (1)](https://github.com/user-attachments/assets/1e080a67-0ec9-4c49-99ef-bd86e9a50fb8)
+
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1  |Table 2  |Table 3  |
+
+
