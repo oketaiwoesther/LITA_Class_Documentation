@@ -10,6 +10,8 @@ Tools Used
 
 Data Cleaning and Preparation
 
+[Data Analysis](#data-analysis)
+
 
 
 ### Project Overview
